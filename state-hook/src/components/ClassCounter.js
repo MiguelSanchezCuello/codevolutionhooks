@@ -25,3 +25,4 @@ class ClassCounter extends Component {
 }
 
 export default ClassCounter
+// Started to rewatch this section once again.
